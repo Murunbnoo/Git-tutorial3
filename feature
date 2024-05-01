@@ -1,1 +1,1 @@
-conflict 2
+comflict 1
