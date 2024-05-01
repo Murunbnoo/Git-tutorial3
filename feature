@@ -1,1 +1,1 @@
-comflict 1
+feature2
